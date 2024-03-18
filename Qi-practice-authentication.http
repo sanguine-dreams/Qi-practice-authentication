@@ -1,0 +1,6 @@
+@Qi_practice_authentication_HostAddress = http://localhost:5085
+
+GET {{Qi_practice_authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
